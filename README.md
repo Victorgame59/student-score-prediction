@@ -144,7 +144,7 @@ It was retrained using only the top features, leading to improved performance an
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/student-score-prediction.git
+git clone git@github.com:immuhammad/student-score-prediction.git
 cd student-score-prediction
 pip install -r requirements.txt
 jupyter notebook
